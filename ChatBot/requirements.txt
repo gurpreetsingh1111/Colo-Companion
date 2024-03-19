@@ -1,0 +1,5 @@
+requests
+python-dotenv
+streamlit_chat
+streamlit_extras
+tiktoken
