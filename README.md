@@ -2,6 +2,7 @@
 Colo Companion is an AI-powered chatbot for providing colorectal health support.
 
 ## Colo Companion logo
+![OIG](https://github.com/gurpreetsingh1111/Colo-Companion/assets/84591513/167f7a9f-d025-4a6f-bbcc-f3b21151187f)
 
 ## Problem Statement
 Rising global colorectal cancer cases - expected 80% increase by 2040.
